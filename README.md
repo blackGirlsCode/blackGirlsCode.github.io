@@ -1,3 +1,1 @@
-# blackGirlsCode.github.io
-
-blackgirlscode2.com
+bgc2.com# blackGirlsCode.github.io
