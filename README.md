@@ -1,6 +1,6 @@
-<h1>Welcome to blackGirlsCode official Website!<h1>
+<h1>Welcome to blackGirlsCode official Website!</h1>
 
-<p>blackGirlsCode(2) exists to be a safe place for women of color to learn software development and grow in their careers.  
+blackGirlsCode(2) exists to be a safe place for women of color to learn software development and grow in their careers.  
 Our members come from different backgrounds, either self-taught or college educated, all with a unique story that has brought them together.  The common thread that binds us is to seek likeness in another and a burning desire to create our very own versions of disruptive technology.
 
 Charlotte, NC is our birthplace, but be advised, we won't stop here. Women of color represent just a small fraction of the technical workforce and that extends globally.  bGC2 exists to connect and build the community of women of color in technology and close the gap in the digitial divide. 
