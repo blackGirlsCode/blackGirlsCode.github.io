@@ -28,14 +28,17 @@ If you have anything to contribute this blackGirlsCode.io, please follow the ste
 <h2>Prerequesites</h2>
 
 [Node.js](https://nodejs.org/en/)
+
 [Browsersync](http://www.browsersync.io/)
 
 <h2>Getting Started</h2>
+
 The easiest way to get started is to clone the repository.
 
 First, create a file in your ``Projects`` folder or wherever you hold development projects on your PC.
 
 ``cd $ Projects``
+
 Enter this command from your terminal:
 
   ``$ git clone https://github.com/blackGirlsCode/blackGirlsCode.github.io.git``
@@ -49,6 +52,7 @@ Now, navigate to your browser and open ``http://localhost:3000``.  If the page l
 <h2>License</h2>
 
 Creative Commons license (CC BY-NC-SA 3.0)
+
 2015 blackGirlsCode(2) All rights reserved.
 
 
