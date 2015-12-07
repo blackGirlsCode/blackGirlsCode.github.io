@@ -37,7 +37,7 @@ The easiest way to get started is to clone the repository.
 
 First, create a file in your ``Projects`` folder or wherever you hold development projects on your PC.
 
-``cd $ Projects``
+``$ cd Projects``
 
 Enter this command from your terminal:
 
