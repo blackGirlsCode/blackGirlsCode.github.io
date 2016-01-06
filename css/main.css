@@ -153,7 +153,7 @@ Buttons Styles
 }
 
 /* ==========================================================================
-Layout 
+Layout
 ========================================================================== */
 .dark-bg {
   background: #24242a;
@@ -234,7 +234,7 @@ Navigation Style
   background: transparent;
   color: #a3a3a3;
 }
-
+/*collapse navbar**/
 .top-nav-collapse {
   background: #24242a;
 }
@@ -718,11 +718,11 @@ Media Queries Style
     width: 100%;
   }
   .navbar-default .navbar-toggle {
-    padding-top: 25px;
-    padding-bottom: 25px;
+    padding-top: 5px;
+    padding-bottom: 5px;
     border: none;
   }
-  .navbar-default .navbar-toggle .icon-bar {
+  .navbar-default .navbar-toggle .fa {
     background-color: #fff;
   }
   .navbar-default .navbar-toggle:hover,
@@ -738,7 +738,7 @@ Media Queries Style
     display: block;
   }
   .navbar-default .navbar-collapse {
-    box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.1);
+    box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.5);
   }
   .navbar-default .navbar-collapse.collapse {
     display: none !important;
