@@ -342,6 +342,8 @@ Sliders Style
   right: -5px;
 }
 
+#owl-testi
+
     /* ==========================================================================
 Welcome Style
 ========================================================================== */
@@ -351,14 +353,25 @@ Welcome Style
 }
 #welcome h2 {
   text-transform: uppercase;
+  text-align: center;
 }
 #welcome h2 span {
   font-weight: 700;
+}
+#welcome p {
+  text-transform: uppercase;
+  text-align: center;
 }
 #welcome img {
   margin-top: 40px;
   margin-bottom: 40px;
 }
+.sponsor {
+  padding: 30px;
+    border:5px solid #000;
+    border-width: 15px;
+    border-spacing: 30px;
+  }
 
     /* ==========================================================================
 Services Style
@@ -510,6 +523,7 @@ Fun Facts Style
   text-transform: uppercase;
   color: #fff;
 }
+
 #fun-facts p {
   color: #fff;
 }
@@ -519,7 +533,6 @@ Fun Facts Style
 }
 #fun-facts .number {
   color: #fff;
-  font-weight: 700;
   padding: 10px 0;
   margin: 0;
 }
@@ -527,6 +540,7 @@ Fun Facts Style
   font-size: 48px;
   color: #fff;
   margin-bottom: 15px;
+  margin-top: 15px;
 }
 
     /* ==========================================================================

@@ -36,7 +36,7 @@ $(document).ready(function () {
         slideSpeed: 300,
         paginationSpeed: 400,
         singleItem: true,
-        transitionStyle: "fadeUp",
+        transitionStyle: "backSlide",
         autoPlay: true,
         navigationText: ["<i class='fa fa-angle-left'></i>", "<i class='fa fa-angle-right'></i>"]
 
@@ -99,11 +99,11 @@ $(document).ready(function () {
     google.maps.event.addDomListener(window, 'load', initialize);
 
     /***************** Wow.js ******************/
-    
+
     new WOW().init();
-    
+
     /***************** Preloader ******************/
-    
+
     var preloader = $('.preloader');
     $(window).load(function () {
         preloader.remove();
